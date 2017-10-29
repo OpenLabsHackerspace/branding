@@ -1,5 +1,5 @@
 # branding
-Branding for Open Labs Hackerspace in Tirana, Albania. 5th Anniversay Edition.
+Branding for Open Labs Hackerspace in Tirana, Albania. 5th Anniversary Edition.
 
 Here you can find the Source Files for the Open Labs Hackerspace branding. We created the repo to store our brand and to make it accessible by anyone. The use of the brand must followed our guidelines, which will be posted soon in this repo.
 
@@ -17,7 +17,7 @@ A short peek of the brand files
 
 ## Icon Version
 
-<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/icon_color.png" width="300" height="266">
+<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/icon_color.png" width="222" height="197">
 
 ## 5th Anniversary Poster 1
 
