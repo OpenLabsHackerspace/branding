@@ -13,7 +13,7 @@ A short peek of the brand files
  
 ##Vertical Version
 
-<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/vertical_color.png" width="598" height="343">
+<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/vertical_color.png" width="300" height="172">
 
 ##Icon Version
 
