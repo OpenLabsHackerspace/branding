@@ -9,33 +9,32 @@ A short peek of the brand files
 
 ##Horizontal Version
 
-![Horizontal_logo](https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/horizontal_color.png)
-
+<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/horizontal_color.png" width="598" height="124">
+ 
 ##Vertical Version
 
-![Vertical_logo](https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/vertical_color.png)
+<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/vertical_color.png" width="598" height="343">
 
 ##Icon Version
 
-![Icon](https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/icon_color.png)
+<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/icon_color.png" width="598" height="530">
 
 ##5th Anniversary Poster 1
 
-![Poster_1](https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/5th%20Anniversary/Poster/PNG/Poster_1.png)
+<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/5th%20Anniversary/Poster/PNG/Poster_1.png" width="598" height="846">
 
 ##5th Anniversary Poster 2
 
-![Poster_2](https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/5th%20Anniversary/Poster/PNG/Poster_2.png)
+<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/5th%20Anniversary/Poster/PNG/Poster_2.png" width="598" height="846">
 
 ##5th Anniversary Poster 3
 
-![Poster_3](https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/5th%20Anniversary/Poster/PNG/Poster_3.png)
+<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/5th%20Anniversary/Poster/PNG/Poster_3.png" width="598" height="846">
 
 ##5th Anniversary Poster 4
 
-![Poster_4](https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/5th%20Anniversary/Poster/PNG/Poster_4.png)
+<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/5th%20Anniversary/Poster/PNG/Poster_4.png" width="598" height="846">
 
 ##5th Anniversary Poster 5
 
-![Poster_5](https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/5th%20Anniversary/Poster/PNG/Poster_5.png)
-
+<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/5th%20Anniversary/Poster/PNG/Poster_5.png" width="598" height="846">
