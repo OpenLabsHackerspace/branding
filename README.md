@@ -17,7 +17,7 @@ A short peek of the brand files
 
 ##Icon Version
 
-<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/icon_color.png" width="300" height="232">
+<img src="https://raw.githubusercontent.com/OpenLabsHackerspace/branding/master/PNG/icon_color.png" width="300" height="266">
 
 ##5th Anniversary Poster 1
 
